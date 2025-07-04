@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Abhishek Bhakta -->
 
 <p align="center">
-  <img src="https://i.postimg.cc/QCYPTDqP/Abhishek-Bhakta1-mp4-ezgif-com-video-to-gif-converter-1.gif" width="100%" alt="Animated Banner">
+  <img src="https://i.postimg.cc/QCYPTDqP/Abhishek-Bhakta1-mp4-ezgif-com-video-to-gif-converter-1.gif" width="90%" alt="Animated Banner">
 </p>
 
 <h1 align="center">
