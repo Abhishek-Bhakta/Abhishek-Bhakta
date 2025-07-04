@@ -37,7 +37,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🔹 [**Printy – Online Printout System**](https://github.com/Abhishek-Bhakta/Online-Printing-System) | Upload docs, preview, price calc, send to shopkeepers | `PHP`, `Stripe`, `JS`, `HTML/CSS` |
+| 🔹 [**Online Printing System**](https://github.com/Abhishek-Bhakta/Online-Printing-System) | Upload docs, preview, price calc, send to shopkeepers | `PHP`, `Stripe`, `JS`, `HTML/CSS` |
 | 🔹 **Fashop – E-commerce Website** | Product filtering, user cart, secure checkout | `HTML`, `Bootstrap`, `JS` |
 | 🔹 **Gauseva NGO Website** | Donation-enabled responsive NGO site | `WordPress`, `Elementor` |
 | 🔹 **Mandir Android App** | Temple events, daily darshan alerts | `Android Studio`, `Java`, `Firebase` |
