@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **A BSc Computer Science** graduate at **Nagindas Khandwala College, Mumbai University**
+- 🎓 **BSc in Computer Science** at **Nagindas Khandwala College, Mumbai University**
 - 💻 Full-Stack Developer | UI/UX Designer | Freelancer  
 - 🔧 Skills: **JavaScript, PHP, React, Node.js, WordPress**
 - 🚀 CGPA: **9.00**
