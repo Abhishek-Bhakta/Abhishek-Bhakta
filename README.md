@@ -1,115 +1,82 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=Hello+%F0%9F%91%8B%2C+I'm+Abhishek+Bhakta!;Full-Stack+Web+Developer+%F0%9F%92%BB;Creative+Designer+%F0%9F%96%8C%EF%B8%8F;Tech+Explorer+%F0%9F%9A%80"/>
-</div>
+<!-- GitHub Profile README - Abhishek Bhakta -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFvbmUyMXlsemxyenhyZXNrb3F3M2M1djUzb3FhY2duNHd5NWx4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="52%" alt="Animated Banner">
+</p>
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" />
+  Hello, I'm <strong>Abhishek Bhakta</strong>!
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-10.07.2024-blue?style=flat-square&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=AbhishekDevZone&label=Profile%20Views&color=brightgreen&style=flat-square" />
+  <a href="https://github.com/AbhishekDevZone">
+    <img src="https://img.shields.io/github/followers/AbhishekDevZone?label=Follow&style=social" />
+  </a>
+  <img src="https://img.shields.io/badge/Build-Passing-success?style=flat-square&logo=vercel" />
 </p>
 
 ---
 
-## 👨‍💻 About Me (Styled as Code)
+### 👨‍💻 About Me
 
-```html
-<developer>
-  <name>Abhishek Bhakta</name>
-  <profession>Web Developer</profession>
-  <education>BSc Computer Science, University of Mumbai</education>
-  <focus>
-    <frontend>HTML, CSS, JS, Bootstrap</frontend>
-    <backend>PHP, MySQL, Node.js, MongoDB</backend>
-    <tools> Git VSCode</tools>
-  </focus>
-  <interests>
-    UI/UX, Animations, Blogging, Editing
-  </interests>
-</developer>
-```
+- 🎓 **A BSc Computer Science** graduate at **Nagindas Khandwala College, Mumbai University**
+- 💻 Full-Stack Developer | UI/UX Designer | Freelancer  
+- 🔧 Skills: **JavaScript, PHP, React, Node.js, WordPress**
+- 🚀 CGPA: **9.00**
+- 🧠 Always learning, always building — currently diving deeper into **Node.js + MongoDB**
+- 🤝 Open to freelance, internships, and exciting collaborations!
 
 ---
 
-## 🛠️ My Toolbox
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,mongodb,bootstrap,wordpress,figma,git,github,vscode&theme=dark" />
-</p>
+> A few highlights from my journey so far:
 
----
-
-## 🌟 Highlighted Projects
-
-```yaml
-- Printify:
-    description: Online print delivery system
-    features:
-      - PDF preview
-      - Page count + cost estimator
-      - Realtime shopkeeper dashboard
-
-- CartXpress:
-    description: Custom cart with live update
-    features:
-      - Dynamic item preview
-      - Cost calculator
-      - Persistent login flow
-
-- Portflow:
-    description: Personal portfolio with animation
-    features:
-      - GSAP scroll effects
-      - One-page responsive design
-
-- WPBlogMaster:
-    description: WordPress blog with hooks
-    features:
-      - Custom templates
-      - SEO optimized
-```
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🔹 [**Printy – Online Printout System**](#) | Upload docs, preview, price calc, send to shopkeepers | `PHP`, `Stripe`, `JS`, `HTML/CSS` |
+| 🔹 [**Fashop – E-commerce Website**](#) | Product filtering, user cart, secure checkout | `HTML`, `Bootstrap`, `JS` |
+| 🔹 [**Gauseva NGO Website**](#) | Donation-enabled responsive NGO site | `WordPress`, `Elementor` |
+| 🔹 [**Mandir Android App**](#) | Temple events, daily darshan alerts | `Android Studio`, `Java`, `Firebase` |
+| 🔹 [**TrackMySite** (WIP)](https://github.com/AbhishekDevZone) | Client–agency live project tracker | `React`, `MongoDB`, `Node.js` |
 
 ---
 
-## 📈 GitHub Activity
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-ram&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhi-ram&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-ram&layout=compact&theme=radical&hide_border=true" />
-</p>
+**Languages**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+**Frameworks & Tools**  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
-## 📌 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-ram&theme=high-contrast&hide_border=true" />
-</p>
-
----
-
-## 🎯 Current Focus & Interests
-
-- 🔧 Improving backend skills (Node.js + MongoDB)
-- 🎨 Enhancing UI/UX animation
-- ✍️ Writing blogs & documentation
-- 🧩 Exploring new design systems
-- 🎬 Learning storytelling through editing
+**Platforms & Dev Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 ---
 
-## 🤝 Let’s Collaborate
+### 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/abhi-ram"><img src="https://img.shields.io/github/followers/abhi-ram?label=Follow&style=social" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekdev5/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishekbhakta18@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel)](https://abhishekportfolio-18.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/AbhishekDevZone)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer&text=Thanks+for+visiting+my+profile!&fontSize=22&textColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRvaDZicTVhd3ByaHFvMzJrcmtrNzhjd2p6aDdycXJ5eHpwZXdudCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l46Cy1rHbQ92uuLXa/giphy.gif" width="60" /> Stay curious, stay coding!
-</p>
+> _"Learn. Build. Repeat."_ 💪  
+> — Abhishek Bhakta
